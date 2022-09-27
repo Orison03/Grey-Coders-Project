@@ -37,7 +37,7 @@ function App() {
   };
   return (
     <>
-    <h2 className="main__header">Add a web note</h2>
+    <h2 className="main__header">Add a simple web note</h2>
       <div className="container-fluid">
         <div className="row mt-5">
           <div className="col-md-6">
